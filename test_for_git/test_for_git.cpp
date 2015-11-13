@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-	printf("Hello git");
-
+	printf("Hello git\n");
+	printf("World is mine\n");
+	
 	return 0;
 }
