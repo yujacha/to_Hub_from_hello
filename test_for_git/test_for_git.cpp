@@ -6,5 +6,6 @@ int main() {
 	printf("World is mine\n");
 	printf("Earth is mine\n");
 	
+	printf("Luna is mine\n");
 	return 0;
 }
