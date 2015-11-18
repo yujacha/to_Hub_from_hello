@@ -9,5 +9,6 @@ int main() {
 	printf("Luna is mine\n");
 	printf("OK?");
 	printf("last check");
+	printf("hub check")
 	return 0;
 }
