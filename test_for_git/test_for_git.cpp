@@ -3,9 +3,7 @@ using namespace std;
 
 int main() {
 	printf("Hello git\n");
-	printf("World is mine\n");
-	printf("Earth is mine\n");
-	
+	printf("World is mine\
 	printf("last check");
 	printf("hub check1");
 	123wrgfk
