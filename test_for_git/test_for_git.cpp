@@ -10,6 +10,6 @@ int main() {
 	printf("OK?");
 	printf("last check");
 	printf("hub check1");
-	123
+	123wr
 	return 0;
 }
