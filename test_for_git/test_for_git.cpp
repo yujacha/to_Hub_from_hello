@@ -8,5 +8,6 @@ int main() {
 	
 	printf("Luna is mine\n");
 	printf("OK?");
+	printf("last check");
 	return 0;
 }
