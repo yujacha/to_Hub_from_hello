@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {s
-	printf("last check
+int main() {
+	printf("Hello git\n");
+s
 	123wrgfk
 		jhjhgfdghj
 	return 0;
